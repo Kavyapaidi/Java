@@ -1,1 +1,1 @@
-# Implementation of all the java core concepts
+# Implementation of all the core java concepts
